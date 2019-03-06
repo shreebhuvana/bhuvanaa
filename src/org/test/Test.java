@@ -9,7 +9,7 @@ public class Test {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/");
 	
-	
+	System.out.println("Done");
 	
 	
 	}
